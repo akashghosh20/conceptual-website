@@ -14,3 +14,11 @@ body {
 half-width {
   width: 50%;
 }
+section {
+  width: 80%;
+  margin: 0 auto;
+}
+.details-btn {
+  padding: 10px 30px;
+  background-image: linear-gradient(45deg, green, red, green);
+}
