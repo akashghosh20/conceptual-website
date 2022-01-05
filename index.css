@@ -22,3 +22,24 @@ section {
   padding: 10px 30px;
   background-image: linear-gradient(45deg, green, red, green);
 }
+.details-btn:hover {
+  background-color: blueviolet;
+}
+.h {
+  text-align: center;
+}
+.all-divissions {
+  display: flex;
+}
+.Khulna {
+  width: 170px;
+  border: 3px solid gray;
+  border-radius: 10px;
+  box-shadow: 6px 6px 16px gray;
+  justify-content: space-around;
+  padding: 30px;
+  margin: 0 auto;
+}
+.Khulna img {
+  width: 100%;
+}
